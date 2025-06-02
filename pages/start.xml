@@ -1,8 +1,8 @@
-<page id="start" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
+<page id="start" bg_image="desert-bg.png" bg_music="osts-vilo.mp3">
   <agent
     id="teste"
     text="Aoba"
-    color="white"
+    color="darkgreen"
     x="center"
     y="center"
     font-size="120"
