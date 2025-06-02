@@ -1,4 +1,4 @@
-<page id="start" bg_image="desert-bg.png" bg_music="osts-vilo.mp3">
+<page id="start" bg_image="desert-bg.png" bg_music="osts-retro-forest.mp3">
   <agent
     id="teste"
     text="Aoba"
@@ -11,7 +11,7 @@
   <agent
     id="next_page_text"
     text="Proxima Pagina"
-    animation="glitch"
+    animation="slide-up"
     y="480"
     x="640"
     on_click="goToPage('middle')"
