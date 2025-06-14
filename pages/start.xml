@@ -12,8 +12,10 @@
     id="next_page_text"
     text="Proxima Pagina"
     animation="slide-up"
-    y="480"
-    x="640"
+    color="black"
+    y="450"
+    x="630"
+    font-size="22"
     on_click="goToPage('middle')"
   />
 </page>
