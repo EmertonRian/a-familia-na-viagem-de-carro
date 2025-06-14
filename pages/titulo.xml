@@ -1,4 +1,4 @@
-<page id="start" bg_image="carro_suv_na_estrada.jpg" bg_music="american_legion_song_for_maeve_1_.mp3">
+<page id="titulo" bg_image="carro_suv_na_estrada.jpg" bg_music="american_legion_song_for_maeve_1_.mp3">
   <agent
     id="carro de fundo"
     text="A família na viagem de carro"
