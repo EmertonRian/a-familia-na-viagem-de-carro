@@ -2,10 +2,10 @@
   <agent
     id="teste"
     text="Aoba"
-    color="darkgreen"
+    color="black"
     x="center"
     y="center"
-    font-size="120"
+    font-size="24"
   />
 
   <agent
