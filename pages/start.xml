@@ -1,6 +1,5 @@
 <page id="start" bg_image="carro_suv_na_estrada.jpg" bg_music="american_legion_song_for_maeve_1_.mp3">
   <agent
-    config 
     id="carro de fundo"
     text="A família na viagem de carro"
     color="black"
