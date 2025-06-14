@@ -1,11 +1,12 @@
 <page id="start" bg_image="carro_suv_na_estrada.jpg" bg_music="american_legion_song_for_maeve_1_.mp3">
   <agent
-    id="teste"
-    text="Aoba"
+    config 
+    id="carro de fundo"
+    text="A família na viagem de carro"
     color="black"
-    x="center"
-    y="center"
-    font-size="24"
+    x=""
+    y="192"
+    font-size="50"
   />
 
   <agent
