@@ -1,4 +1,4 @@
-<page id="start" bg_image="desert-bg.png" bg_music="osts-retro-forest.mp3">
+<page id="start" bg_image="desert-bg.png" bg_music="american_legion_song_for_maeve_1_.mp3">
   <agent
     id="teste"
     text="Aoba"
