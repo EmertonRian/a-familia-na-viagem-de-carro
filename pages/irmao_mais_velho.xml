@@ -1,4 +1,4 @@
-<page id="irmao_mais_velho" bg_color="black" bg_image="velho.png" bg_music="https://www.youtube.com/watch?v=4mNdQwtxKUs" >
+<page id="irmao_mais_velho" bg_color="black" bg_image="velho.png" bg_music="fairy_fountain_mp3cut_net_.mp3" >
   
   <agent id="caixaTexto" 
       x="center"
@@ -22,6 +22,6 @@
     height=""
     color="black"
     bg_color="white"
-    on_click="goToPage('explicacao_pai')"
+    on_click="goToPage('explicacao_irmao_velho')"
   />
 </page>
