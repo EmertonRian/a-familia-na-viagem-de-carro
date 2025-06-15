@@ -1,3 +1,8 @@
-<page id="pai" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página pai" color="white" font-size="24" />
+<page id="pai" bg_color="black" >
+  <agent id="titulo"
+    x="center"
+    y="center"
+    text="Página pai" 
+    color="white" 
+    font-size="24" />
 </page>
