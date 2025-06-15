@@ -3,7 +3,7 @@
   <agent id="caixaTexto" 
       x="center"
       y="10" 
-      text="A perspectiva do pai representa o Niilismo negativo, que consiste em acreditar que o sentido está em um mundo ideal metafísico, separado do mundo físico. Essa forma de niilismo está presente em perspectivas dualistas, como o platonismo(dualidade entre mundo sensível e mundo das ideias) e no cristianismo(dualidade entre céu e terra). No contexto da viagem, o carro é a vida/o mundo físico, e o pai acredita que o sentido está fora dele. O GPS, ao qual o pai acredita e segue cegamente, é uma metáfora para dogmas, religião ou valores absolutos." 
+      text="A perspectiva do pai representa o Niilismo negativo, que consiste em acreditar que o sentido está em um mundo ideal metafísico, separado do mundo físico. Essa forma de niilismo está presente em perspectivas dualistas, como o platonismo(dualidade entre mundo sensível e mundo das ideias) e no cristianismo(dualidade entre céu e terra). No contexto da viagem, o carro é a vida/mundo físico, e o pai acredita que o sentido está fora dele. O GPS, ao qual o pai acredita e segue cegamente, é uma metáfora para dogmas, religião ou valores absolutos." 
       bg_color="#80808080"
       color="black" 
     width="750"
