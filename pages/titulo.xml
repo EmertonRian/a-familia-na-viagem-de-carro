@@ -1,12 +1,16 @@
-<page id="titulo" bg_image="carro_suv_na_estrada.jpg" bg_music="american_legion_song_for_maeve_1_.mp3">
+<page id="titulo" bg_image="chatgpt_image_14_de_jun_de_2025_22_17_19_2_.png" bg_music="american_legion_song_for_maeve_1_.mp3">
   <agent
     id="carro de fundo"
     text="A família na viagem de carro"
     color="black"
     x="20"
-    y="192"
+    y="400"
     font-size="52"
     animation="breathing"
+    bg_color="darkgrey"
+      color="#000000" width="800"
+      height=""
+      font-size="25"
   />
 
   <agent
@@ -14,7 +18,7 @@
     text="Contexto"
     animation="float"
     color="black"
-    y="450"
+    y="510"
     x="630"
     font-size="35"
     on_click="goToPage('contexto')"
