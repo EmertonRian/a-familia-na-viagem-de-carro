@@ -1,12 +1,11 @@
-<page id="irmao_mais_velho" bg_color="black" bg_image="irm_o_mais_velho.png" bg_music="franz_schuberts_ave_maria_played_by_nemanja_bogunovic_on_a_2023_masaki_sakurai_classical_guitar_mp3cut_net_.mp3" >
+<page id="irmao_mais_velho" bg_color="black" bg_image="velho.png" bg_music="franz_schuberts_ave_maria_played_by_nemanja_bogunovic_on_a_2023_masaki_sakurai_classical_guitar_mp3cut_net_.mp3" >
   
   <agent id="caixaTexto" 
       x="center"
       y="390" 
-      text="O pai está ao volante, dirigindo com seriedade e fé. Seus olhos estão fixos no horizonte. Para ele, essa viagem não precisa fazer sentido agora — ele acredita, com convicção, que o sentido está mais à frente, no fim da estrada. Tudo o que acontece dentro do carro — o tédio, o desconforto, os conflitos — é irrelevante ou até necessário: são provas que devem ser suportadas até que o verdadeiro propósito se revele no final.
-Ele não questiona a rota. A estrada pode ser longa, mas ele confia no GPS. Se há sofrimento, é porque algo maior o justifica." 
+      text="Assim como o irmão mais novo, o irmão mais velho entendeu e aceitou que a viagem não tem sentido. Entretanto, ao invés de sucumbir e ser sufocado por esse fato, ele decidiu criar o próprio sentido. Olhando o irmão, ele pensou: “será que ele está triste porque a viagem não tem sentido ou ele acha que a viagem não tem sentido porque ele está triste?” Diante disso, ele decidiu criar o próprio significado. A viagem podia não ter sentido, mas ele estava gostando de ouvir a música no rádio, de conversar com a família e de olhar a paisagem pela janela." 
       bg_color="#80808080"
-      color="white" 
+      color="yellow" 
     width="800"
       height=""
       font-size="22"/>
