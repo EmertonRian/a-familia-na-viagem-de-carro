@@ -1,4 +1,4 @@
-<page id="explicacao_irmao_velho"  bg_color="black" bg_image="correntes.png" bg_music="mozart_requiem_lacrimosa_herrwegghe_mp3cut_net_.mp3" >
+<page id="explicacao_irmao_velho"  bg_color="black" bg_image="correntes.png" bg_music="fairy_fountain_mp3cut_net_.mp3" >
   
   <agent id="caixaTexto" 
       x="center"
