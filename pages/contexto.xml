@@ -1,22 +1,14 @@
-<page id="contexto" bg_music="osts-vilo.mp3" bg_image="nietzsche1882.jpg"
-  >
-  <agent
-    id="texto+caixa_de_texto"
-    text="Para dar um pouco de contexto, para Nietzsche, o homem é um ser que busca sentido em um mundo sem sentido, e essa busca sem resultado gera angústia. Para resolver essa aflição, o homem desenvolveu o niilismo, que é um mecanismo de defesa que consiste em negar a falta de propósito do mundo em nome de um ideal. Os 4 tipos de niilismo se diferem na forma como o homem nega a realidade e onde ele busca esse ideal."
-    color="white"
-    x=""
-    y="center"
-    font-size="20"
+<page id="contexto" bg_music="osts-vilo.mp3" bg_image="nietzsche1882.jpg">
   />
 
     <agent id="caixaTexto" 
       x="center"
-      y="center" 
+      y="285" 
       text="Para dar um pouco de contexto, para Nietzsche, o homem é um ser que busca sentido em um mundo sem sentido, e essa busca sem resultado gera angústia. Para resolver essa aflição, o homem desenvolveu o niilismo, que é um mecanismo de defesa que consiste em negar a falta de propósito do mundo em nome de um ideal. Os 4 tipos de niilismo se diferem na forma como o homem nega a realidade e onde ele busca esse ideal." 
       bg_color="darkgrey"
       color="#000000" width="800"
-      height="200"
-      font-size="20"
+      height="250"
+      font-size="25"
       />
   />
   
