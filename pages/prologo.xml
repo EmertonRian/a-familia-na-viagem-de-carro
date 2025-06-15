@@ -24,7 +24,7 @@
     height=""
     color="black"
     bg_color="white"
-    on_click="goToPage('prologo')"
+    on_click="goToPage('')"
   />
 
    <agent
@@ -39,7 +39,7 @@
     height=""
     color="black"
     bg_color="white"
-    on_click="goToPage('prologo')"
+    on_click="goToPage('')"
   />
 
    <agent
@@ -54,7 +54,7 @@
     height="50"
     color="black"
     bg_color="white"
-    on_click="goToPage('prologo')"
+    on_click="goToPage('')"
   />
 
    <agent
@@ -69,6 +69,6 @@
     height="50"
     color="black"
     bg_color="white"
-    on_click="goToPage('prologo')"
+    on_click="goToPage('')"
   />
 </page>
