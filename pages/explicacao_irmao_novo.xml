@@ -1,3 +1,28 @@
-<page id="explicacao_irmao_novo" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página explicacao_irmao_novo" color="white" font-size="24" />
+<page id="explicacao_irmao_novo" bg_color="black" bg_image="chatgpt_image_15_de_jun_de_2025_12_15_51.png" bg_music="mozart_requiem_lacrimosa_herrwegghe_mp3cut_net_.mp3" >
+  
+  <agent id="caixaTexto" 
+      x="center"
+      y="380" 
+      text="A perspectiva do irmão mais novo representa o niilismo passivo — a forma mais silenciosa e paralisante de lidar com a ausência de sentido. Ao contrário do pai, que espera um ideal fora do mundo, ou da mãe, que acredita que o sentido pode ser alcançado com esforço dentro do mundo, o irmão mais novo já não acredita em mais nada. Ele reconhece que não há propósito nem horizonte salvador e, por isso, não reage. Sua única defesa é a apatia, o sono, a fuga da consciência.
+Nietzsche via essa forma de niilismo como a mais perigosa: não destrutiva por rebeldia, mas por desistência interior — um tipo de morte em vida." 
+      bg_color="#80808080"
+      color="white" 
+    width="750"
+      height=""
+      font-size="20"/>
+
+   <agent
+      id="Prólogo"
+    text="Prólogo"
+    animation="float"
+    y="12"
+    x="620"
+    font-size="45"
+    font-size=""
+    width=""
+    height=""
+    color="black"
+    bg_color="white"
+    on_click="goToPage('prologo')"
+  />
 </page>
