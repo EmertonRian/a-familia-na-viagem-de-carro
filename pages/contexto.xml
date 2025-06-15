@@ -23,6 +23,6 @@
     height=""
     color="black"
     bg_color="white"
-    on_click="goToPage('ending')"
+    on_click="goToPage('prologo')"
   />
 </page>
