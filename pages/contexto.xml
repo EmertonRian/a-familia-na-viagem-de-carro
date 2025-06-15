@@ -18,6 +18,8 @@
     animation="glitch"
     y="480"
     x="640"
+    font-size="30"
+    width="125o"
     on_click="goToPage('ending')"
   />
 </page>
