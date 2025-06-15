@@ -1,12 +1,16 @@
-<page id="prologo" bg_image="cha" bg_music="osts-vilo.mp3">
+<page id="prologo" bg_image="carro_suv_na_estrada.jpg" bg_music="">
   <agent
     id="teste"
     text="Hello World Ending"
     color="white"
     x="center"
     y="center"
-    font-size="70"
-  />
+     bg_color="darkgrey"
+      color="#000000" 
+    width=""
+      height=""
+      font-size="20"
+    />
 
   <agent
     id="next_page_text"
