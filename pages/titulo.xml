@@ -11,12 +11,12 @@
 
   <agent
     id="next_page_text"
-    text="Proxima Pagina"
+    text="Contexto"
     animation="float"
     color="black"
     y="450"
     x="630"
-    font-size="22"
+    font-size="35"
     on_click="goToPage('contexto')"
     bg_color="white"
   />
