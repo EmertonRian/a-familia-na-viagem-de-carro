@@ -24,6 +24,6 @@ O calor o sufocava, mas ele não ligava mais. Nada fazia sentido. Nada valia o e
     height=""
     color="black"
     bg_color="white"
-    on_click="goToPage('explicacao_pai')"
+    on_click="goToPage('explicacao_irmao_novo')"
   />
 </page>
