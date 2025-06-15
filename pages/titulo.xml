@@ -14,8 +14,8 @@
   />
 
   <agent
-    id="next_page_text"
-    text="Contexto"
+    id="contexto"
+    text=""
     animation="float"
     color="black"
     y="510"
