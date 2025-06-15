@@ -3,9 +3,10 @@
     id="carro de fundo"
     text="A família na viagem de carro"
     color="black"
-    x=""
+    x="20"
     y="192"
-    font-size="50"
+    font-size="52"
+    animation="breathing"
   />
 
   <agent
