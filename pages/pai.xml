@@ -1,21 +1,21 @@
-<page id="pai" bg_color="black" bg_image="estrada.jpg" bg_music="franz_schuberts_ave_maria_played_by_nemanja_bogunovic_on_a_2023_masaki_sakurai_classical_guitar_mp3cut_net_.mp3" >
+<page id="pai" bg_color="black" bg_image="pai.png" bg_music="franz_schuberts_ave_maria_played_by_nemanja_bogunovic_on_a_2023_masaki_sakurai_classical_guitar_mp3cut_net_.mp3" >
   
   <agent id="caixaTexto" 
       x="center"
-      y="10" 
+      y="420" 
       text="O pai está ao volante, dirigindo com seriedade e fé. Seus olhos estão fixos no horizonte. Para ele, essa viagem não precisa fazer sentido agora — ele acredita, com convicção, que o sentido está mais à frente, no fim da estrada. Tudo o que acontece dentro do carro — o tédio, o desconforto, os conflitos — é irrelevante ou até necessário: são provas que devem ser suportadas até que o verdadeiro propósito se revele no final.
 Ele não questiona a rota. A estrada pode ser longa, mas ele confia no GPS. Se há sofrimento, é porque algo maior o justifica." 
       bg_color="lightgrey"
       color="#000000" 
     width="800"
       height=""
-      font-size="20"/>
+      font-size="19"/>
 
    <agent
       id="Explicação"
     text="Explicação"
     animation="float"
-    y="510"
+    y="12"
     x="590"
     font-size="40"
     font-size=""
