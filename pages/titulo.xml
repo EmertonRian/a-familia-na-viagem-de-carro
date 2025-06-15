@@ -11,7 +11,7 @@
   <agent
     id="next_page_text"
     text="Proxima Pagina"
-    animation="slide-up"
+    animation="breathing"
     color="black"
     y="450"
     x="630"
