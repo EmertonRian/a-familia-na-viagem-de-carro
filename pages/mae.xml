@@ -27,6 +27,6 @@ Talvez até valesse a pena."
     height=""
     color="black"
     bg_color="white"
-    on_click="goToPage('explicacao_pai')"
+    on_click="goToPage('explicacao_mae')"
   />
 </page>
