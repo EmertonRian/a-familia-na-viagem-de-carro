@@ -2,11 +2,12 @@
   
   <agent id="caixaTexto" 
       x="center"
-      y="255" 
-      text="Para Nietzsche, o homem é um ser que busca sentido em um mundo sem sentido, e essa busca sem resultado gera angústia. Para resolver essa aflição, o homem desenvolveu o niilismo, um mecanismo de defesa que consiste em negar a falta de propósito do mundo em nome de um ideal. Os 4 tipos de niilismo se diferem na forma como o homem nega a realidade e onde ele busca esse ideal." 
-      bg_color="darkgrey"
+      y="10" 
+      text="O pai está ao volante, dirigindo com seriedade e fé. Seus olhos estão fixos no horizonte. Para ele, essa viagem não precisa fazer sentido agora — ele acredita, com convicção, que o sentido está mais à frente, no fim da estrada. Tudo o que acontece dentro do carro — o tédio, o desconforto, os conflitos — é irrelevante ou até necessário: são provas que devem ser suportadas até que o verdadeiro propósito se revele no final.
+Ele não questiona a rota. A estrada pode ser longa, mas ele confia no GPS. Se há sofrimento, é porque algo maior o justifica." 
+      bg_color="lightgrey"
       color="#000000" 
     width="800"
       height=""
-      font-size="25"/>
+      font-size="20"/>
 </page>
