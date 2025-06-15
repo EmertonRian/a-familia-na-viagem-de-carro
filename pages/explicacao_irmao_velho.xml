@@ -1,3 +1,32 @@
-<page id="explicacao_irmao_velho" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página explicacao_irmao_velho" color="white" font-size="24" />
+<page id="explicacao_irmao_velho"  bg_color="black" bg_image="correntes.png" bg_music="mozart_requiem_lacrimosa_herrwegghe_mp3cut_net_.mp3" >
+  
+  <agent id="caixaTexto" 
+      x="center"
+      y="380" 
+      text="O irmão mais velho representa o niilismo ativo.
+Assim como o irmão mais novo, ele aceita que a viagem (a vida) não tem um sentido pré-definido. Mas, em vez de sucumbir à angústia, ele escolhe criar seu próprio significado.
+Aprecia a música, observa a paisagem, valoriza a convivência — não porque isso resolve o vazio, mas porque decide viver bem mesmo assim.
+O niilismo ativo é a forma de superação do vazio proposta por Nietzsche:
+não nega o absurdo, mas o transforma em liberdade criativa.
+Ele não espera sentido — ele cria." 
+      bg_color="#80808080"
+      color="yellow" 
+    width="790"
+      height=""
+      font-size="20"/>
+
+   <agent
+      id="Prólogo"
+    text="Prólogo"
+    animation="float"
+    y="12"
+    x="620"
+    font-size="45"
+    font-size=""
+    width=""
+    height=""
+    color="black"
+    bg_color="white"
+    on_click="goToPage('prologo')"
+  />
 </page>
