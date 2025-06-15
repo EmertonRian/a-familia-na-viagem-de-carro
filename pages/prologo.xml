@@ -69,6 +69,6 @@
     height="50"
     color="black"
     bg_color="white"
-    on_click="goToPage('')"
+    on_click="goToPage('mae')"
   />
 </page>
