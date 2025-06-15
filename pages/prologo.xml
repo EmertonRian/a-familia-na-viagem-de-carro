@@ -1,23 +1,74 @@
 <page id="prologo" bg_image="carro_suv_na_estrada.jpg" bg_music="">
   <agent
     id="teste"
-    text="Hello World Ending"
-    color="white"
+    text="Uma família está viajando de carro por uma estrada longa e desinteressante. Não há sinal de quando chegarão. Além disso, o ar-condicionado parece estar com defeito. O tédio, o desconforto e a angústia tomam conta. A forma como cada um lida com essa angústia revela sua visão existencial. "
+    color="black"
     x="center"
-    y="center"
-     bg_color="darkgrey"
+    y="50"
+     bg_color="ghostwhite"
       color="#000000" 
-    width=""
+    width="750"
       height=""
-      font-size="20"
+      font-size="30"
     />
 
   <agent
-    id="next_page_text"
-    text="Primeira Pagina"
-    animation="glitch"
-    y="480"
-    x="640"
-   on_click="goToPage('prologo')"
+      id="Irmão mais velho"
+    text="Irmão mais velho"
+    animation="float"
+    y="535"
+    x="610"
+    font-size="26"
+    font-size=""
+    width=""
+    height=""
+    color="black"
+    bg_color="white"
+    on_click="goToPage('prologo')"
+  />
+
+   <agent
+      id="Irmão mais velho"
+    text="Irmão mais novo"
+    animation="float"
+    y="435"
+    x="610"
+    font-size="26"
+    font-size=""
+    width=""
+    height=""
+    color="black"
+    bg_color="white"
+    on_click="goToPage('prologo')"
+  />
+
+   <agent
+      id="Pai"
+    text="Pai"
+    animation="float"
+    y="435"
+    x="20"
+    font-size="40"
+    font-size=""
+    width="150"
+    height="50"
+    color="black"
+    bg_color="white"
+    on_click="goToPage('prologo')"
+  />
+
+   <agent
+      id="Mãe"
+    text="Mãe"
+    animation="float"
+    y="540"
+    x="20"
+    font-size="40"
+    font-size=""
+    width="150"
+    height="50"
+    color="black"
+    bg_color="white"
+    on_click="goToPage('prologo')"
   />
 </page>
