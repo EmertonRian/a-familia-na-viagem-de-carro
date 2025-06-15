@@ -1,3 +1,29 @@
-<page id="irmao_mais_novo" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página irmao_mais_novo" color="white" font-size="24" />
+<page id="irmao_mais_novo" bg_color="black" bg_image="irm_o_mais_novo.png" bg_music="franz_schuberts_ave_maria_played_by_nemanja_bogunovic_on_a_2023_masaki_sakurai_classical_guitar_mp3cut_net_.mp3" >
+  
+  <agent id="caixaTexto" 
+      x="center"
+      y="390" 
+      text="O irmão mais novo entendeu e aceitou que a viagem não tem sentido, e essa conclusão pesou sobre ele como uma grande rocha, o sufocando. Ele não acreditava que encontraria sentido no destino da viagem, nem que conseguiria resolver sua aflição dentro do próprio carro. Ele só aceitou a falta de sentido e a angústia, e isso o corroía por dentro a cada quilômetro que passava. 
+Ele não reclamava. Não brigava. Apenas se deitava no banco de trás, virado para a janela, como quem tenta apagar a realidade com o peso das pálpebras. Às vezes acordava, perguntava se faltava muito, e voltava ao sono — não por cansaço, mas por desistência.
+O calor o sufocava, mas ele não ligava mais. Nada fazia sentido. Nada valia o esforço. " 
+      bg_color="#80808080"
+      color="white" 
+    width="800"
+      height=""
+      font-size="22"/>
+
+   <agent
+      id="Explicação"
+    text="Explicação"
+    animation="float"
+    y="12"
+    x="590"
+    font-size="40"
+    font-size=""
+    width=""
+    height=""
+    color="black"
+    bg_color="white"
+    on_click="goToPage('explicacao_pai')"
+  />
 </page>
