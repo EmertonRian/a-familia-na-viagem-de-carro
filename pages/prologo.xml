@@ -1,4 +1,4 @@
-<page id="prologo" bg_image="carro_suv_na_estrada.jpg" bg_music="">
+<page id="prologo" bg_image="carro_suv_na_estrada.jpg" bg_music="american_legion_song_for_maeve_1_.mp3">
   <agent
     id="teste"
     text="Uma família está viajando de carro por uma estrada longa e desinteressante. Não há sinal de quando chegarão. Além disso, o ar-condicionado parece estar com defeito. O tédio, o desconforto e a angústia tomam conta. A forma como cada um lida com essa angústia revela sua visão existencial. "
