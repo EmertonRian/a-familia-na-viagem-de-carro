@@ -9,4 +9,19 @@
     width="800"
       height=""
       font-size="20"/>
+
+   <agent
+      id="Irmão mais velho"
+    text="Prólogo"
+    animation="float"
+    y="435"
+    x="610"
+    font-size="26"
+    font-size=""
+    width=""
+    height=""
+    color="black"
+    bg_color="white"
+    on_click="goToPage('prologo')"
+  />
 </page>
