@@ -12,17 +12,17 @@ Ele não questiona a rota. A estrada pode ser longa, mas ele confia no GPS. Se h
       font-size="20"/>
 
    <agent
-      id="Prologo"
-    text="Prologo"
+      id="Explicação"
+    text="Explicação"
     animation="float"
-    y="500"
-    x="610"
-    font-size="45"
+    y="510"
+    x="590"
+    font-size="40"
     font-size=""
     width=""
     height=""
     color="black"
     bg_color="white"
-    on_click="goToPage('')"
+    on_click="goToPage('explicacao_pai')"
   />
 </page>
