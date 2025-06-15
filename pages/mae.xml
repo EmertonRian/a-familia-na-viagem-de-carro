@@ -2,18 +2,18 @@
   
   <agent id="caixaTexto" 
       x="center"
-      y="410" 
+      y="380" 
       text="A mãe está no banco da frente. Ela não está dirigindo o carro, mas também não está passiva. Observa tudo. Ela já não acredita que o sentido da viagem virá do destino final, fora do carro, como o pai acredita com fervor quase religioso. Ela acredita, entretanto, que a falta de sentido e a angústia da viagem pode ser resolvida dentro do próprio carro. Ela pensa: 
 Se ao menos o ar-condicionado funcionasse…
 Se o ambiente fosse mais fresco…
 Se o desconforto imediato diminuísse…
 Então a viagem seria suportável.
 Talvez até valesse a pena." 
-      bg_color="#F5F5DC80"
-      color="#000000" 
+      bg_color="#80808080"
+      color="white" 
     width="800"
       height=""
-      font-size="20"/>
+      font-size="22"/>
 
    <agent
       id="Explicação"
