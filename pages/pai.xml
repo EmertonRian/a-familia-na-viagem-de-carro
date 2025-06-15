@@ -12,12 +12,12 @@ Ele não questiona a rota. A estrada pode ser longa, mas ele confia no GPS. Se h
       font-size="20"/>
 
    <agent
-      id="Irmão mais velho"
-    text="Irmão mais velho"
+      id="Prologo"
+    text="Prologo"
     animation="float"
-    y="535"
+    y="500"
     x="610"
-    font-size="26"
+    font-size="45"
     font-size=""
     width=""
     height=""
